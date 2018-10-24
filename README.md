@@ -4,7 +4,7 @@
 
 Hi,
 
-I will be attempting to create a web application to take information in, and use VGS to secure the data. I will admit that I have not created a web applicattion from scratch. Most of my experience has been based off a working sample, and building it up from there. The way I plan to do this is the following:
+I will be attempting to create a web application to take information in, and use a method to secure the data before the charge. I will admit that I have not created a web applicattion from scratch. Most of my experience has been based off a working sample, and building it up from there. The way I plan to do this is the following:
 
 1. Create a local host for the site to live at
   -install/use wamp and phpmyadmin to act as the server
