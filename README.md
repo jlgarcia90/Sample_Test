@@ -10,7 +10,7 @@ I will be attempting to create a web application to take information in, and use
   -install/use wamp and phpmyadmin to act as the server
 2. Display a page to ask for input card data and save the data to send to another site to charge the card
   -the form will ask for bare minimal to make a payment
-3. Use VGS to secure the data before transmission and be able to decrpyt it
+3. Use a method to secure the data before transmission and be able to decrpyt it
 
 Let us give this a whirl. 
 
