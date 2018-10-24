@@ -18,8 +18,6 @@ Best,
 
 JL
 
-#Items Needed
+#Workflow Idea
 
-Please install Wamp onto your computer. I will be using Wamp to run my site locally. 
-
-#
+The end user would go to the locally hosted site ie: localhost:8080/file_path/signeddatafields.php. Then fill out the information to be called back on the next page that will ask for the card info localhost:8080/file_path/unsigneddatafields.php. Before the charge is made the data is sent to the VGS endpoint to encrypt the data. Once the encryption is completed the receipt will pop up with the customer's information and the secret. 
